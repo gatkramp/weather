@@ -2,7 +2,6 @@
 """
 Created on Wed Nov 18 15:38:32 2015
 
-@author: FvdMerwe
 """
 
 import time,datetime

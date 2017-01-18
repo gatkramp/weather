@@ -2,8 +2,7 @@
 """
 Spyder Editor
 
-This temporary script file is located here:
-C:\Users\FvdMerwe\.spyder2\.temp.py
+
 """
 
 import urllib2,datetime,os.path,time
